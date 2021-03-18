@@ -1,3 +1,5 @@
+#This is a code to run raw VIIRS imagen from NOAA webpage (H5.format)
+
 library(sf)
 library(ggplot2)
 library(dplyr)
